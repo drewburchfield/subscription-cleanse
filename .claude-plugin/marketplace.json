@@ -1,0 +1,12 @@
+{
+  "name": "subscription-cleanse-dev",
+  "owner": {"name": "Drew Burchfield", "url": "https://github.com/drewburchfield"},
+  "plugins": [{
+    "name": "subscription-cleanse",
+    "source": "./",
+    "description": "Comprehensive subscription audit with bank CSV analysis and email reconnaissance",
+    "version": "1.0.6",
+    "author": {"name": "Drew Burchfield", "url": "https://github.com/drewburchfield"},
+    "category": "productivity"
+  }]
+}
