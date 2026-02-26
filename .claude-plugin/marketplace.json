@@ -7,6 +7,7 @@
     "description": "Comprehensive subscription audit with bank CSV analysis and email reconnaissance",
     "version": "1.0.6",
     "author": {"name": "Drew Burchfield", "url": "https://github.com/drewburchfield"},
-    "category": "productivity"
+    "category": "productivity",
+    "homepage": "https://github.com/drewburchfield/subscription-cleanse"
   }]
 }
